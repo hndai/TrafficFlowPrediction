@@ -1,4 +1,4 @@
-# wadn
+# WADM
 wide-attention and deep model
 
 ## Installation
