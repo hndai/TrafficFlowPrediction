@@ -30,9 +30,9 @@ python train_bike.py --model model_name
 You can choose "lstm", "gru" as arguments for training single DL model or choose "w_attention_d" (WADM) for training composite DL model.
 
 ## Experiment
-Data are obtained from the Caltrans Performance Measurement System (CPeMS) and (FBBC).
+Data are obtained from the Caltrans Performance Measurement System (CPeMS) and Fremont Bridge Bicycle Counter (FBBC).
 ```
-	device: GTX 1050
-	dataset: CPeMS and FBBC
-	optimizer: RMSprop
+device: GTX 1050
+dataset: CPeMS and FBBC
+optimizer: RMSprop
 ```
