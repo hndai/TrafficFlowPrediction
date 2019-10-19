@@ -10,14 +10,14 @@ wide-attention and deep model
 ## Train the model
 
 **Run command below to train the model:**
-- Baseline single DL model based on CPeMS dataset.
+- Training baseline single DL model based on CPeMS dataset.
 ```
 python train_t.py --model model_name
 ```
 
 You can choose "lstm", "gru" or "saes" as arguments. The ```.h5``` weight file was saved at model folder.
 
-- Composite DL model based on CPeMS dataset.
+- Training composite DL model based on CPeMS dataset.
 ```
 python train_wd.py --model model_name
 ```
