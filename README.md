@@ -10,18 +10,18 @@ wide-attention and deep model
 ## Train the model
 
 **Run command below to train the model:**
-- Training baseline single DL model based on CPeMS dataset.
+- Train the baseline single DL model based on CPeMS dataset.
 ```
 python train_t.py --model model_name
 ```
 
 You can choose "lstm", "gru" or "saes" as arguments. The ```.h5``` weight file was saved at model folder.
 
-- Training composite DL model based on CPeMS dataset.
+- Train the composite DL model based on CPeMS dataset.
 ```
 python train_wd.py --model model_name
 ```
-You can choose "w_attention_d" (WADM) or "wd_crossLayer_attention" (DCN) as arguments. The ```.h5``` weight file was saved at model folder.
+You can choose "w_attention_d" (WADM) or "wd_crossLayer_attention" (DCN) as arguments. The ```.h5``` weight file is saved at model folder.
 
 - Training model based on FBBC dataset.
 ```
