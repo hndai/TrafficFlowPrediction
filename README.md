@@ -1,4 +1,4 @@
-# WADM
+# WADC
 wide-attention and deep model
 
 ## Installation
