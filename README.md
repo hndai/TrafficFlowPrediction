@@ -36,3 +36,16 @@ device: GTX 1050
 dataset: CPeMS and FBBC
 optimizer: RMSprop
 ```
+
+## Citation
+```
+@ARTICLE{9120076,
+  author={J. {Zhou} and H. {Dai} and H. {Wang} and T. {Wang}},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={Wide-Attention and Deep-Composite Model for Traffic Flow Prediction in Transportation Cyber-Physical Systems}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},}
+  
+```
