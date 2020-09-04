@@ -1,5 +1,5 @@
-# WADC
-wide-attention and deep model
+# WADC for traffic flow prediction
+Wide-attention and deep model for traffic flow prediction
 
 ## Installation
 - Python 2.7   
@@ -40,7 +40,7 @@ optimizer: RMSprop
 ## Citation
 ```
 @ARTICLE{9120076,
-  author={J. {Zhou} and H. {Dai} and H. {Wang} and T. {Wang}},
+  author={J. {Zhou} and H.-N. {Dai} and H. {Wang} and T. {Wang}},
   journal={IEEE Transactions on Industrial Informatics}, 
   title={Wide-Attention and Deep-Composite Model for Traffic Flow Prediction in Transportation Cyber-Physical Systems}, 
   year={2020},
